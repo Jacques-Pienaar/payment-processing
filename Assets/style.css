@@ -1,0 +1,149 @@
+body {
+  background-color: #2D3451;
+  color: white;
+}
+
+h1 {
+  font-size: 48px;
+  margin-top: 30vh;
+}
+
+form {
+  width: 75%;
+  padding: 50px;
+  padding-top: 0px;
+  background-color: white;
+  color: #4DAAF2;
+  border-radius: 50px;
+}
+
+form h1 {
+  font-size: 45px;
+}
+
+#header {
+  margin-bottom: 50vh;
+}
+
+#header .container {
+  height: 100vh;
+}
+
+#header .row {
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#header #header-image {
+  width: 512px;
+}
+
+#background-fade {
+  position: absolute;
+  top: -500px;
+  left: 50%;
+  width: 800px;
+}
+
+#panel-options {
+  margin-top: 25vh;
+}
+
+.contact-button {
+  background-color: #4DAAF2;
+  width: 150px;
+  height: 50px;
+  border-width: 0px;
+  border-radius: 50px;
+  color: white;
+}
+
+#panel-options {
+  text-align: center;
+}
+
+#panel-options .panel-col {
+  background-color: #384674;
+  margin: 10px;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  padding: 10px 0;
+}
+
+#panel-options .panel-heading {
+  top: 5px;
+  font-size: 26px;
+}
+
+#panel-options img {
+  margin: 20px 0 20px 0;
+}
+
+#panel-options a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#panel-options .blue-anchor {
+  color: #4DAAF2;
+}
+
+#panel-options .green-anchor {
+  color: green;
+}
+
+#panel-options .red-anchor {
+  color: red;
+}
+
+#services {
+  margin-top: 30vh;
+  margin-bottom: 5vh;
+  text-align: center;
+}
+
+#services .small-text {
+  color: #4DAAF2;
+  padding: 10 0 10 0;
+}
+
+#services .center-col {
+  margin-top: 50px;
+}
+
+#services img {
+  width: 75%;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+
+#services h1 {
+  padding: 0 0 10 0;
+  margin: 0;
+}
+
+#contact-section .Contact-BG {
+  position: absolute;
+  margin-top: 0;
+}
+
+#contact-section p {
+  font-size: 20px;
+}
+
+#contact-section ul {
+  font-size: 22px;
+}
+
+#contact-section li {
+  padding-top: 15px;
+  padding-left: 5px;
+  list-style-type: circle;
+  letter-spacing: 2px;
+}
+/*# sourceMappingURL=style.css.map */
